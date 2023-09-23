@@ -77,8 +77,12 @@ Explain how to build and distribute your project as a standalone application or 
 Login Screens
 There are two login screens:
 
-DummyLogin.js: Allows login with a dummy username and password.
+DummyLogin.js: Allows login with the following credentials:
+Username: User
+Password: Password
+
 Login.js: Implements actual login logic.
+
 Contributing
 We welcome contributions from the community! If you'd like to contribute to MyApp, please follow our Contribution Guidelines.
 
